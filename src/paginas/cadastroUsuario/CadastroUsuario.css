@@ -1,0 +1,21 @@
+.imagem2{
+    background-image: url(https://i.pinimg.com/474x/4d/1d/b8/4d1db8baf1f2aa92b334da3003da73e7.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+
+.texto2{
+    font-weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+}
+
+.gatoCada{
+    height: 600px;
+    width: 700px;
+}
